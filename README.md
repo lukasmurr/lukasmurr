@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A66C2,100:004182&text=Lukas%20Murr&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Augsburg&descSize=18&descAlignY=58" alt="Lukas Murr" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A66C2,100:004182&text=Lukas%20Murr&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Dual%20Student%20Software%20Development%20%C2%B7%20Autonomous%20Racing&descSize=18&descAlignY=58" alt="Lukas Murr" width="100%" />
 </p>
 
 <p align="center">
@@ -13,12 +13,15 @@
 
 ### About me
 
-I'm a software developer from Augsburg who enjoys building reliable, well-structured software — from typed web frontends to performance-critical backend code.
+Dual student in **application development at Grenzebach Group** and **B.Sc. Computer Science at Technische Hochschule Augsburg**. In my free time, I work on autonomous racing software for Formula Student.
 
-- 🏎️ &nbsp;Engineering with **[Starkstrom Augsburg e.V.](https://www.starkstrom-augsburg.de/)** (Formula Student)
-- 🛠️ &nbsp;Focus on **.NET / C#**, **Angular & TypeScript** and **Rust**
-- 🌱 &nbsp;Always learning — currently exploring systems programming and clean architecture
-- 🤝 &nbsp;Open to interesting projects and professional exchange — reach out on [LinkedIn](https://www.linkedin.com/in/lukas-murr/)
+- 🏎️ &nbsp;**Manager Perception** at **StarkStrom Augsburg e.V.** (Formula Student Driverless)
+- 🎯 &nbsp;Previously led **Driverless Software Controls**: replaced Pure Pursuit with a **Model Predictive Controller (MPC)** for trajectory control
+- 🤖 &nbsp;Co-developed a **Formula Student Driverless Simulator** (ROS 2, simulation) as a university project
+- 🥇 &nbsp;**1st place** at the THA *Projekttag Informatik* with *Team Spinni* and our robot
+- 💼 &nbsp;Trained *Fachinformatiker für Anwendungsentwicklung* (2024), working with **.NET / C#**, **Angular & TypeScript**
+- 🚒 &nbsp;Volunteer firefighter at Freiwillige Feuerwehr Rudelstetten
+- 🤝 &nbsp;Let's connect on [LinkedIn](https://www.linkedin.com/in/lukas-murr/)
 
 ### Tech stack
 
@@ -38,6 +41,7 @@ I'm a software developer from Augsburg who enjoys building reliable, well-struct
     <td><b>Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
     </td>
