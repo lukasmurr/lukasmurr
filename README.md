@@ -17,8 +17,8 @@ Dual student in **application development at Grenzebach Group** and **B.Sc. Comp
 
 - 🏎️ &nbsp;**Manager Perception** at **StarkStrom Augsburg e.V.** (Formula Student Driverless)
 - 🎯 &nbsp;Previously led **Driverless Software Controls**: replaced Pure Pursuit with a **Model Predictive Controller (MPC)** for trajectory control
-- 🤖 &nbsp;Co-developed a **Formula Student Driverless Simulator** (ROS 2, simulation) as a university project
-- 🥇 &nbsp;**1st place** at the THA *Projekttag Informatik* with *Team Spinni* and our robot
+- 🤖 &nbsp;Co-developed a **Formula Student Driverless Simulator** (ROS, Gazebo, PyQt5, C++) for testing all four driverless disciplines
+- 🥇 &nbsp;**1st place** at the THA *Projekttag Informatik* 2026 with **Spinni**, an autonomous spider robot that builds walls while climbing on them
 - 💼 &nbsp;Trained *Fachinformatiker für Anwendungsentwicklung* (2024), working with **.NET / C#**, **Angular & TypeScript**
 - 🚒 &nbsp;Volunteer firefighter at Freiwillige Feuerwehr Rudelstetten
 - 🤝 &nbsp;Let's connect on [LinkedIn](https://www.linkedin.com/in/lukas-murr/)
